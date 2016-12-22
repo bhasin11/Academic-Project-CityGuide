@@ -14,9 +14,13 @@ Project Description:
 
 •	APPLICATIONS: 
 
-    o	The biggest application of this project is tracking the status of a particular road at that given time, wherever the VTA bus is present the closest. 
+    o	The biggest application of this project is tracking the status of a particular road 
+        at that given time, wherever the VTA bus is present the closest. 
 
-    o	An online shooper can track their package: where the package has currently reached and expected time of delivery. For example, we can place a physical speed sensor on delivery trucks, and with the help of sensed data from that network, depending on the traffic status an estimate can be calculated when the package will reach the shopper.
+    o	An online shooper can track their package: where the package has currently reached 
+        and expected time of delivery. For example, we can place a physical speed sensor on 
+        delivery trucks, and with the help of sensed data from that network, depending on 
+        the traffic status an estimate can be calculated when the package will reach the shopper.
 
 •	Technologies: 
     
