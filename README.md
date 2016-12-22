@@ -2,7 +2,7 @@
 
 Project Description:
 
-> A mobile sensing web application which helps to track the current traffic status of a city.
+•	A mobile sensing web application which helps to track the current traffic status of a city.
 
 > Hosted in AWS Elastic Beanstalk, the application supports elastic scalability and multi-tenancy.
 
