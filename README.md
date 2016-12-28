@@ -6,8 +6,6 @@ Project Description:
 
 •	Hosted in AWS Elastic Beanstalk, the application supports elastic scalability and multi-tenancy.
 
-•	Physical sensors are placed on VTA(Valley Transportation Authority, San Jose, CA).
-
 •	The observations of a physical speed sensor, are sent to its exclusive Amazon EC2 Instane. The data received by the instance is then forwarded to hub of that instance. Each city has a single hub, which can be dynamically scaled if required.
 
 •	The hub collects data from all sensors and helps in building a sensor network. This data is used to help end-users track the current traffic status. An end-user from one network can also track traffic status from other networks through hub.
